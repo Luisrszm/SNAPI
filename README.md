@@ -1,4 +1,4 @@
-# MagicE-Manager | Magic Employee Manager 🚀
+# SNAPI | Social Network API 🪩
 
 ## Description
 
