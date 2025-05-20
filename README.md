@@ -30,7 +30,10 @@ No test required.
 
 ## Usage
 
-Follow [this link](https://app.screencastify.com/v2/watch/i29uQrvcAswWAcyeUVqt) to try out the site.
+Follow [this link](https://app.screencastify.com/v2/watch/i29uQrvcAswWAcyeUVqt) to try out the site. Or try using this big ahhh QR Code:
+
+![image](https://github.com/user-attachments/assets/1a8b2a09-fa60-417b-824d-ec20b2768dc0)
+
 
 ## License
 
